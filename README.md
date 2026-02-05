@@ -5,6 +5,7 @@
 **Ingeniero Civil Informático** · Universidad de Santiago de Chile
 
 [![Email](https://img.shields.io/badge/Email-jaime.riquelme@usach.cl-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:jaime.riquelme@usach.cl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaimeriquelmeo-0D1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaimeriquelmeo/)
 [![Instagram](https://img.shields.io/badge/Instagram-Jaim3.jpg-0D1117?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Jaim3.jpg)
 [![Profile Views](https://komarev.com/ghpvc/?username=jaimeriquelmeO&color=6c63ff&style=flat-square&label=Views)](https://github.com/JaimeRiquelmeO)
 
@@ -14,7 +15,7 @@
 
 ### About
 
-Ingeniero Civil Informático de la Universidad de Santiago de Chile. Apasionado por el desarrollo de software, la infraestructura cloud y las soluciones tecnológicas escalables. Ex-jugador profesional de Esports (2021).
+Estudiante de Ingeniería Civil Informática (6to año) en la Universidad de Santiago de Chile. Actualmente trabajo como Fullstack Developer en [CITIAPS](https://citiaps.usach.cl/) · [DEI](https://dei.usach.cl/) USACH.
 
 ---
 
