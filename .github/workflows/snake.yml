@@ -2,32 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Ejecuta el workflow cada 12 horas
-  workflow_dispatch: # Permite ejecutar el workflow manualmente desde la pestaña de acciones
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permite escribir contenido en el repositorio
+      contents: write
     steps:
-      - name: Clonar el repositorio
-        uses: actions/checkout@v3
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          fetch-depth: 0
-
-      - name: Generar la Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }} # Usa el nombre del propietario del repositorio
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg # Genera el SVG para el modo claro
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark # Genera el SVG para el modo oscuro
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publicar en la rama `output`
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output # Publica los resultados en la rama `output`
-          build_dir: dist # Sube el contenido de la carpeta `dist`
+          target_branch: output
+          build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Usa el token de GitHub para autenticar
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
