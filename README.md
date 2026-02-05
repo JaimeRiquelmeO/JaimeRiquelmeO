@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-jaime.riquelme@usach.cl-0D1117?style=flat-square&logo=gmail&logoColor=white)](mailto:jaime.riquelme@usach.cl)
 [![Instagram](https://img.shields.io/badge/Instagram-Jaim3.jpg-0D1117?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Jaim3.jpg)
-[![Profile Views](https://komarev.com/ghpvc/?username=jaimeriquelme&color=6c63ff&style=flat-square&label=Views)](https://github.com/JaimeRiquelme)
+[![Profile Views](https://komarev.com/ghpvc/?username=jaimeriquelmeO&color=6c63ff&style=flat-square&label=Views)](https://github.com/JaimeRiquelmeO)
 
 </div>
 
@@ -70,7 +70,7 @@ Ingeniero Civil Informático de la Universidad de Santiago de Chile. Apasionado 
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=jaimeriquelme&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=jaimeriquelmeO&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -78,8 +78,8 @@ Ingeniero Civil Informático de la Universidad de Santiago de Chile. Apasionado 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeRiquelme/JaimeRiquelme/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeRiquelme/JaimeRiquelme/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/JaimeRiquelme/JaimeRiquelme/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeRiquelmeO/JaimeRiquelmeO/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeRiquelmeO/JaimeRiquelmeO/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/JaimeRiquelmeO/JaimeRiquelmeO/output/github-snake.svg" />
   </picture>
 </div>
