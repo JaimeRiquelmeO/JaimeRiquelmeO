@@ -15,7 +15,7 @@
 
 ### About
 
-Estudiante de Ingeniería Civil Informática (6to año) en la Universidad de Santiago de Chile. Actualmente trabajo como Fullstack Developer en [CITIAPS](https://citiaps.usach.cl/) · [DEI](https://dei.usach.cl/) USACH.
+Estudiante de Ingeniería Civil Informática (6to año) en la Universidad de Santiago de Chile. Actualmente trabajo como Fullstack Developer en [CITIAPS](https://citiaps.usach.cl/) USACH.
 
 ---
 
